@@ -1,5 +1,3 @@
-$ git config --global core.autocrlf true
-
 # CAEM
 Categorization of World Countries according Civil Aviation Facilities
 
