@@ -1,3 +1,7 @@
+# CAEM
+Categorization of World Countries according Civil Aviation Facilities
+
+
 You can find in this repository the needed document to understand and reproduce my classification of countries for the ICAO :
 
      -> The "Data" branch contains all the needed database for this work, i.e. the - World Bank Classement of 2018 -, the - Countries with their ISO Codes -, the - Number of Runaways by Airports - and the (compressed) - OAG2018 -.
