@@ -1,4 +1,4 @@
-You will find here all the needed database for reproduce my work :
+You will find here all the needed databases to reproduce my work :
 
 -> "Country_Category.txt" is the World Bank Classement of Country by Income.
 
