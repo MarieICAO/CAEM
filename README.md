@@ -16,5 +16,5 @@ You can find in this repository the needed document to understand and reproduce 
 - The "Results" folder contains a presentation of my work and the different analysis I produced.
 - Finally, the main folder contains two program :
   - "Database.py", which contains all the function I wrote spreading into differents classes.
-> If you download the programs, you must check that they are all in the same folder even if their aren't ion the GitHub. Otherwise Python might not find the module "Database" used in every programs.
+> If you download the programs, you must check that they are all in the same folder even if their aren't ion the GitHub. Otherwise Python might not find the module "Database" used in every program.
   - "Complete_Classification.py", which enable to create automatically the classification between 2003 & 2018 (in the form of excel documents).
