@@ -1,4 +1,4 @@
-You can find all the needed programs to reproduce my work :
+You can find here some programs and documents useful to vizualize the OAG database :
 
 -> "Database.py" is the module of the categorization, i.e. it contains all the needed functions to execute the action in the following programs. 
 
