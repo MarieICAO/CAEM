@@ -1,6 +1,6 @@
 # Classification des capacités Aéronautiques des États du Monde (CAEM) :
 
-  Mon travail à l’OACI consiste en une classification des états membres de l’organisation en fonction de leurs capacités aéronautiques. L’objectif est de déterminer quels états du monde ont le plus besoin du soutien technique de la section IAA (développement de logiciels, ateliers de formation, …), de manière à mieux répartir ses ressources pour qu’elles soient le plus utile possible. Cette classification se base sur un certain nombre d’indicateurs comme le nombre d’aéroports, le nombre et l’orientation des pistes d’atterrissage, le nombre de compagnies aériennes, le trafic aérien annuel, … 
+\t Mon travail à l’OACI consiste en une classification des états membres de l’organisation en fonction de leurs capacités aéronautiques. L’objectif est de déterminer quels états du monde ont le plus besoin du soutien technique de la section IAA (développement de logiciels, ateliers de formation, …), de manière à mieux répartir ses ressources pour qu’elles soient le plus utile possible. Cette classification se base sur un certain nombre d’indicateurs comme le nombre d’aéroports, le nombre et l’orientation des pistes d’atterrissage, le nombre de compagnies aériennes, le trafic aérien annuel, … 
   En appliquant celle-ci sur les données des 15 dernières années, il est alors possible de déterminer si les capacités aéronautiques d’un état sont stables ou instables, en progression ou en régression (et même dans certains cas de suivre l’évolution politique du pays en question).
 
 
