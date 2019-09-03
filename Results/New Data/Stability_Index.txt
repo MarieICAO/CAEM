@@ -1,0 +1,192 @@
+Country Code	Country Name	Category 2003	Category 2008	Category 2013
+AFG	Afghanistan	Worrying	Unstable Upwards	Worrying
+ALB	Albania	Encouraging	Unstable Upwards	Stable
+DZA	Algeria	Unstable Upwards	Unstable Upwards	Unstable Upwards
+AGO	Angola	Encouraging	Encouraging	Stable
+ATG	Antigua and Barbuda	Worrying	Worrying	Worrying
+ARG	Argentina	Structural Effect	Structural Effect	Structural Effect
+ARM	Armenia	Encouraging	Encouraging	Encouraging
+AUS	Australia	Stable	Stable	Stable
+AUT	Austria	Structural Effect	Structural Effect	Structural Effect
+AZE	Azerbaijan	Encouraging	Stable	Stable
+BHS	Bahamas	Worrying	Worrying	Stable
+BHR	Bahrain	Stable	Stable	Stable
+BGD	Bangladesh	Encouraging	Unstable Downwards	Encouraging
+BRB	Barbados	Stable	Stable	Stable
+BLR	Belarus	Encouraging	Encouraging	Stable
+BEL	Belgium	Structural Effect	Structural Effect	Structural Effect
+BLZ	Belize	Unstable Downwards	Encouraging	Stable
+BEN	Benin	Stable	Stable	Stable
+BTN	Bhutan	Encouraging	Encouraging	Stable
+BOL	Bolivia	Stable	Stable	Stable
+BIH	Bosnia and Herzegovina	Encouraging	Encouraging	Encouraging
+BWA	Botswana	Stable	Stable	Stable
+BRA	Brazil	Stable	Stable	Stable
+BRN	Brunei Darussalam	Stable	Stable	Stable
+BGR	Bulgaria	Encouraging	Stable	Stable
+BFA	Burkina Faso	Stable	Stable	Stable
+BDI	Burundi	Worrying	Stable	Stable
+KHM	Cambodia	Stable	Stable	Stable
+CMR	Cameroon	Encouraging	Unstable Downwards	Encouraging
+CAN	Canada	Stable	Stable	Stable
+CPV	Cape Verde	Structural Effect	Structural Effect	Structural Effect
+CAF	Central African Republic	Stable	Stable	Stable
+TCD	Chad	Unstable Upwards	Worrying	Worrying
+CHL	Chile	Structural Effect	Structural Effect	Structural Effect
+CHN	China	Stable	Stable	Stable
+COL	Colombia	Stable	Stable	Stable
+COM	Comoros	Encouraging	Unstable Downwards	Encouraging
+COK	Cook Islands	Stable	Stable	Stable
+CRI	Costa Rica	Stable	Stable	Stable
+CIV	Cote d'Ivoire	Encouraging	Encouraging	Stable
+HRV	Croatia	Encouraging	Encouraging	Encouraging
+CUB	Cuba	Stable	Stable	Stable
+CYP	Cyprus	Encouraging	Encouraging	Stable
+CZE	Czech Republic	Stable	Stable	Stable
+PRK	Democratic People's Republic of Korea	Stable	Stable	Stable
+COD	Democratic Republic of the Congo	Encouraging	Unstable Downwards	Unstable Downwards
+DNK	Denmark	Structural Effect	Structural Effect	Structural Effect
+DJI	Djibouti	Stable	Stable	Stable
+DMA	Dominica	Stable	Stable	Stable
+DOM	Dominican Republic	Encouraging	Stable	Stable
+ECU	Ecuador	Stable	Stable	Stable
+EGY	Egypt	Encouraging	Stable	Stable
+SLV	El Salvador	Stable	Stable	Stable
+GNQ	Equatorial Guinea	Encouraging	Encouraging	Encouraging
+ERI	Eritrea	Stable	Stable	Stable
+EST	Estonia	Stable	Stable	Stable
+ETH	Ethiopia	Stable	Stable	Stable
+FSM	Federated States of Micronesia	Stable	Stable	Stable
+FJI	Fiji	Worrying	Worrying	Stable
+FIN	Finland	Stable	Stable	Stable
+FRA	France	Stable	Stable	Stable
+GAB	Gabon	Worrying	Worrying	Worrying
+GMB	Gambia	Unstable Downwards	Unstable Downwards	Unstable Downwards
+GEO	Georgia	Encouraging	Encouraging	Encouraging
+DEU	Germany	Stable	Stable	Stable
+GHA	Ghana	Encouraging	Stable	Stable
+GRC	Greece	Stable	Stable	Stable
+GRD	Grenada	Worrying	Stable	Stable
+GTM	Guatemala	Stable	Stable	Stable
+GIN	Guinea	Worrying	Unstable Upwards	Unstable Upwards
+GNB	Guinea-Bissau	Worrying	Worrying	Stable
+GUY	Guyana	Stable	Stable	Stable
+HTI	Haiti	Worrying	Encouraging	Unstable Upwards
+HND	Honduras	Worrying	Worrying	Worrying
+HUN	Hungary	Stable	Stable	Stable
+ISL	Iceland	Structural Effect	Structural Effect	Structural Effect
+IND	India	Stable	Stable	Stable
+IDN	Indonesia	Stable	Stable	Stable
+IRN	Iran	Encouraging	Encouraging	Stable
+IRQ	Iraq	Encouraging	Encouraging	Encouraging
+IRL	Ireland	Structural Effect	Structural Effect	Structural Effect
+ISR	Israel	Structural Effect	Structural Effect	Structural Effect
+ITA	Italy	Stable	Stable	Stable
+JAM	Jamaica	Worrying	Worrying	Unstable Upwards
+JPN	Japan	Stable	Stable	Stable
+JOR	Jordan	Stable	Stable	Stable
+KAZ	Kazakhstan	Encouraging	Stable	Stable
+KEN	Kenya	Structural Effect	Structural Effect	Structural Effect
+KIR	Kiribati	Stable	Stable	Stable
+KWT	Kuwait	Stable	Stable	Stable
+KGZ	Kyrgyzstan	Unstable Downwards	Unstable Downwards	Worrying
+LAO	Lao People's Democratic Republic	Encouraging	Stable	Stable
+LVA	Latvia	Stable	Stable	Stable
+LBN	Lebanon	Stable	Stable	Stable
+LSO	Lesotho	Encouraging	Unstable Downwards	Stable
+LBR	Liberia	Unstable Upwards	Unstable Upwards	Stable
+LBY	Libya	Worrying	Worrying	Worrying
+LTU	Lithuania	Stable	Stable	Stable
+LUX	Luxembourg	Stable	Stable	Stable
+MDG	Madagascar	Unstable Downwards	Unstable Downwards	Unstable Downwards
+MWI	Malawi	Stable	Stable	Stable
+MYS	Malaysia	Stable	Stable	Stable
+MDV	Maldives	Encouraging	Encouraging	Stable
+MLI	Mali	Worrying	Worrying	Worrying
+MLT	Malta	Stable	Stable	Stable
+MHL	Marshall Islands	Worrying	Stable	Stable
+MRT	Mauritania	Unstable Downwards	Encouraging	Stable
+MUS	Mauritius	Unstable Upwards	Stable	Stable
+MEX	Mexico	Stable	Stable	Stable
+MCO	Monaco	Stable	Stable	Stable
+MNG	Mongolia	Encouraging	Stable	Stable
+MNE	Montenegro		Stable	Stable
+MAR	Morocco	Encouraging	Stable	Stable
+MOZ	Mozambique	Unstable Upwards	Unstable Upwards	Worrying
+MMR	Myanmar	Encouraging	Encouraging	Encouraging
+NAM	Namibia	Encouraging	Stable	Stable
+NRU	Nauru	Stable	Stable	Stable
+NPL	Nepal	Unstable Upwards	Unstable Upwards	Stable
+NLD	Netherlands	Stable	Stable	Stable
+NZL	New Zealand	Stable	Stable	Stable
+NIC	Nicaragua	Encouraging	Encouraging	Encouraging
+NER	Niger	Stable	Stable	Stable
+NGA	Nigeria	Stable	Stable	Stable
+MKD	North Macedonia	Stable	Stable	Stable
+NOR	Norway	Stable	Stable	Stable
+OMN	Oman	Encouraging	Stable	Stable
+PAK	Pakistan	Stable	Stable	Stable
+PLW	Palau	Unstable Downwards	Unstable Downwards	Stable
+PAN	Panama	Stable	Stable	Stable
+PNG	Papua New Guinea	Stable	Stable	Stable
+PRY	Paraguay	Stable	Stable	Stable
+PER	Peru	Unstable Downwards	Encouraging	Stable
+PHL	Philippines	Stable	Stable	Stable
+POL	Poland	Encouraging	Stable	Stable
+PRT	Portugal	Stable	Stable	Stable
+QAT	Qatar	Stable	Stable	Stable
+KOR	Republic of Korea	Stable	Stable	Stable
+MDA	Republic of Moldova	Encouraging	Encouraging	Encouraging
+COG	Republic of the Congo	Stable	Stable	Stable
+ROU	Romania	Unstable Downwards	Unstable Downwards	Encouraging
+RUS	Russian Federation	Stable	Stable	Stable
+RWA	Rwanda	Stable	Stable	Stable
+KNA	Saint Kitts and Nevis	Structural Effect	Structural Effect	Structural Effect
+LCA	Saint Lucia	Worrying	Worrying	Stable
+VCT	Saint Vincent and the Grenadines	Worrying	Stable	Stable
+WSM	Samoa	Encouraging	Encouraging	Encouraging
+STP	Sao Tome and Principe	Unstable Upwards	Unstable Upwards	Unstable Upwards
+SAU	Saudi Arabia	Stable	Stable	Stable
+SEN	Senegal	Stable	Stable	Stable
+SRB	Serbia		Stable	Stable
+SYC	Seychelles	Unstable Downwards	Unstable Downwards	Encouraging
+SLE	Sierra Leone	Worrying	Worrying	Stable
+SGP	Singapore	Stable	Stable	Stable
+SVK	Slovakia	Stable	Stable	Stable
+SVN	Slovenia	Stable	Stable	Stable
+SLB	Solomon Islands	Encouraging	Unstable Downwards	Encouraging
+SOM	Somalia	Encouraging	Encouraging	Stable
+ZAF	South Africa	Encouraging	Stable	Stable
+SSD	South Sudan			Stable
+ESP	Spain	Stable	Stable	Stable
+LKA	Sri Lanka	Encouraging	Encouraging	Encouraging
+SDN	Sudan	Encouraging	Stable	Stable
+SUR	Suriname	Stable	Stable	Stable
+SWZ	Swaziland	Worrying	Worrying	Stable
+SWE	Sweden	Stable	Stable	Stable
+CHE	Switzerland	Stable	Stable	Stable
+SYR	Syrian Arab Republic	Worrying	Worrying	Worrying
+TJK	Tajikistan	Encouraging	Encouraging	Stable
+THA	Thailand	Encouraging	Encouraging	Stable
+TLS	Timor-Leste	Stable	Stable	Stable
+TGO	Togo	Unstable Downwards	Encouraging	Stable
+TON	Tonga	Worrying	Worrying	Stable
+TTO	Trinidad and Tobago	Unstable Upwards	Worrying	Stable
+TUN	Tunisia	Stable	Stable	Stable
+TUR	Turkey	Encouraging	Stable	Stable
+TKM	Turkmenistan	Encouraging	Encouraging	Encouraging
+TUV	Tuvalu	Stable	Stable	Stable
+UGA	Uganda	Encouraging	Encouraging	Stable
+UKR	Ukraine	Encouraging	Encouraging	Unstable Downwards
+ARE	United Arab Emirates	Stable	Stable	Stable
+GBR	United Kingdom	Stable	Stable	Stable
+TZA	United Republic of Tanzania	Encouraging	Encouraging	Unstable Downwards
+USA	United States	Stable	Stable	Stable
+URY	Uruguay	Stable	Stable	Stable
+UZB	Uzbekistan	Stable	Stable	Stable
+VUT	Vanuatu	Structural Effect	Structural Effect	Structural Effect
+VEN	Venezuela	Worrying	Worrying	Unstable Upwards
+VNM	Viet Nam	Stable	Stable	Stable
+YEM	Yemen	Worrying	Worrying	Worrying
+ZMB	Zambia	Unstable Upwards	Worrying	Worrying
+ZWE	Zimbabwe	Unstable Upwards	Unstable Upwards	Worrying
