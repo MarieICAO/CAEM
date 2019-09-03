@@ -7,7 +7,7 @@ Created on Mon Aug 12 16:29:19 2019
 
 from Database import*
 
-txt = ExtractText(input('The path of the complete OAG document : ')) #The document 'OAG.json' inculing the complete OAG Database.
+txt = ExtractText(input('The path of the complete OAG document : ')) #'CAEM/Data/OAG Database/OAG.json'
 Data = txt.database_Global()
 print('Number of Years in the Database : ' + str(Data.size()))
 n = 0
