@@ -12,9 +12,9 @@ During my internship at the ICAO, I elaborate a classification of member states 
 *In extending the classification on the data of the last 15 years, one can determine if the civil aviation capacities of a member state are stable or unstable, increasing or decreasing (and even sometimes following the political changes in the country).*
 
 You can find in this repository the needed document to understand and reproduce my classification by the ICAO member countries :
-- The "Data" folder contains all the needed database for this work.
-- The "Programs" folder contains all the needed programs to create the final excel documents.
-- The "Results" folder contains the maps of each categorization and the presentation of my work (the maps are in a subfolder).
-- Finally, the main folder contains the explanations of my work in the forms of a DOCX document.
-
-> If you download the files, you must check that they are all in the same folder (otherwise Python might not find the needed module for the programs).
+- The "Data" folder contains any needed database for this work.
+- The "Results" folder contains a presentation of my work and the different analysis I produced.
+- Finally, the main folder contains two program :
+  - "Database.py", which contains all the function I wrote spreading into differents classes.
+> If you download the programs, you must check that they are all in the same folder even if their aren't ion the GitHub. Otherwise Python might not find the module "Database" used in every programs.
+  - "Complete_Classification.py", which enable to create automatically the classification between 2003 & 2018 (in the form of excel documents).
