@@ -16,3 +16,5 @@ You can find in this repository the needed document to understand and reproduce 
 - The "Programs" folder contains all the needed programs to create the final excel documents.
 - The "Results" folder contains the maps of each categorization and the presentation of my work (the maps are in a subfolder).
 - Finally, the main folder contains the explanations of my work in the forms of a DOCX document.
+
+> If you download the files, you must check that they are all in the same folder (otherwise Python might not find the needed module for the programs).
