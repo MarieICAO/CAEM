@@ -1,7 +1,4 @@
-You can find here some programs and documents useful to vizualize the OAG database :
-
--> "Database.py" is the module of the categorization, i.e. it contains all the needed functions to execute the action in the following programs. 
-
--> The other three are the programs wich produce the excel documents needed to build the classifcations.
-
-If you download the files, you must check that they are all in the same folder (otherwise Python might not find the needed module for the programs).
+You can find the OAG database with a program to wisualise it :
+- "OAG.7z" is the compressed version of the database 'OAG.json', including all the airlinks between 2003 & 2019.
+- "OAG_Exploitation.py" is a programm which print the excel documents yearly presenting the OAG database (in importing the module "Database.py"). These documents are located in "OAG Documents.zip".
+- "Airport by Country (Layers & Attributes).7z" is a map showing the spreading in the world of airports according to their size.
