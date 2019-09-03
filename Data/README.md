@@ -1,9 +1,4 @@
 You can find here all the databases that I used in my work :
-
--> "Country_Category.txt" is the World Bank Classement of Country by Income.
-
--> "Country_Codes.txt" is the list of considered Countries with their ISO Code.
-
--> "OAG2018.7z" is the compressed file matching with the OAG Datatbase of ICAO for 2018.
-
--> "Runways.txt" is the list of Airports with their Number of Runways.
+- The folder "Runways" includes the program with all the needed documents to build the Runway database.
+- "Country_Codes.txt" is the list of ICAO member states with their ISO Codes.
+- The World Bank Income Classification (the two last documents in "txt" & "xlsx") is given from 2003 to 2018 (it can be easily found on the World Bank website).
