@@ -5,7 +5,7 @@ Mon travail à l’OACI consiste en une classification des états membres de l�
 *En appliquant celle-ci sur les données des 15 dernières années, il est alors possible de déterminer si les capacités aéronautiques d’un état sont stables ou instables, en progression ou en régression (et même dans certains cas de suivre l’évolution politique du pays en question).*
 
 
-# Classification of World States according Civil Aviation Capacities :
+# Classification of World States according to Civil Aviation Capacities :
 
 During my internship at the ICAO, I elaborate a classification of member states according their civil aviation capacities. The goal is to determine which world states need the most the technical support of the IAA section (software development, training workshops, …), in order to allocate the best way their resources. This categorization is based on some indicators as the number of airports, the number and the layout of runways, the number of airlines, the yearly flight traffic, …
 
